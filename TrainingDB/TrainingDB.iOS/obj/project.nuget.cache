@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eM6OsmBFsP9XOvDrnWlpaEkoWPwX9srvq0f4UhIPaiYK6G458sR7Bb1ceqN9ztyPdkwScgzYHxike2ql6d6tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Platt\\Desktop\\ProgrammingProjects\\cse470j\\TrainingDB\\TrainingDB\\TrainingDB.iOS\\TrainingDB.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Platt\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Platt\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Platt\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Platt\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\Platt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Platt\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}
